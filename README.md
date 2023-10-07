@@ -10,7 +10,7 @@ Members:
 
 ## Run the web through terminal
 
-``
+```
 npm run dev
-``
+```
 
